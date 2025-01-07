@@ -52,11 +52,11 @@
 
 - 免费节点分享 
 - 域名: ['https://ytxfx.xyz'] 
-- 标题:2025年1月6日分享免费的V2Ray节点！10个免费高速节点、4个订阅链接、支持 Clash、V2rayN等流行软件、秒速访问、终身免费 VPN等，让您的上网体验更加便捷、快捷、稳定！网络爬墙,免费梯子,免费节点,永久免费代理商  |  羊驼想分享 
+- 标题:2025年1月7日分享免费的V2Ray节点！10个免费高速节点、4个订阅链接、支持 Clash、V2rayN等流行软件、秒速访问、终身免费 VPN等，让您的上网体验更加便捷、快捷、稳定！网络爬墙,免费梯子,免费节点,永久免费代理商  |  羊驼想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=af74a0fe61c8eb3b538ebf508d6be2b6
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=1f89fe7bb7f4a055a3d9db7b42970438
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d1c0f111711801fcc1cb279cf32e53e5
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=75d1ecf2fdaf4d561a772c7ab96c1247 
-- 更新时间: 2025年01月07日14点43分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ebecf0f40cd6df7cf5479a49504646d8
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=22ba9d75a51e0f579611f1a181f15f05
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=4e7fc1047db1485b81295083473d0e44
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6e82cc941d2e0277ecdbc4b28505c616 
+- 更新时间: 2025年01月07日14点54分 
 结束
