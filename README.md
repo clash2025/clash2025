@@ -56,12 +56,12 @@
 - 内容: 
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=600d321801bb99c94c6b6d8a7fc78d6b
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=cb3bbf8fb288486c542f716176fb860e
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=fac9f774df0ab69e6ad0f84dc6f08a41
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=66e6ed25b032c4600e12ff2555c372cc
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=4a05206c0b7133ad4e6df4c464eb31e4
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=e65221603660c0f5cdc4b3112fc29d55
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=0e2f9d521c9d128b23ac5d1471f32d54
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=d6945a4f2601e422090924dd145eab3a
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=66e6ed25b032c4600e12ff2555c372cc
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=801e0b7f22651eac796be54c4d2819b7
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=fac9f774df0ab69e6ad0f84dc6f08a41 
-- 更新时间: 2025年04月26日23点44分 
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=e65221603660c0f5cdc4b3112fc29d55
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=801e0b7f22651eac796be54c4d2819b7 
+- 更新时间: 2025年04月26日23点54分 
 结束
